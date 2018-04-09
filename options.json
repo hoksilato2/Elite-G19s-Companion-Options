@@ -1,14 +1,13 @@
 {
-  "Version": "2.4.0.16",
+
   "Logging": {
     "IsEnabled": true,
     "IsVerbose": false
   },
-  "InitialVolume": 0.1,
+
   "InitialScreen": "Status",
   "IsUseDirect3D": true,
-  "OrreryRotation": 0.5,
-  "OrreryZoom": 11.0,
+
   "IsShowGPSInSRV": true,
   "IsSpotifyPremiumAvailable": true,
   "SpotifyUsername": "Your Spotify Device Username (see https://www.spotify.com/us/account/set-device-password/)",
