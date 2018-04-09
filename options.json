@@ -171,30 +171,70 @@
       "IsDisabled": false
     },
     {
-      "Name": "CMDR. Hoksilato ED Combat",
-      "SpotifyLink": "spotify:user:hoksilato:playlist:1of73sxHZW7btNySkCwgzU",
-      "IsDisabled": false
-    },
-    {
-      "Name": "CMDR. Hoksilato ED Relax",
-      "SpotifyLink": "spotify:user:hoksilato:playlist:20pOSkkU6ME5iU8MFonls3",
-      "IsDisabled": false
-    },
-    {
-      "Name": "CMDR. Hoksilato ED Space",
-      "SpotifyLink": "spotify:user:hoksilato:playlist:7x7DH0pcjYuq1oquEL2FEq",
-      "IsDisabled": false
-    },
-    {
-      "Name": "CMDR. Hoksilato ED Space suspense",
-      "SpotifyLink": "spotify:user:hoksilato:playlist:0wjOczxNNN8WBTcY6kolvH",
-      "IsDisabled": false
-    },
-    {
-      "Name": "CMDR. Hoksilato ED Cantina",
-      "SpotifyLink": "spotify:user:hoksilato:playlist:0poTBHpERzh5FeH5U87bad",
-      "IsDisabled": false
-    },
+   "Name": "CMDR. Hoksilato ED Relax",
+   "SpotifyLink": "spotify:user:hoksilato:playlist:20pOSkkU6ME5iU8MFonls3",
+   "IsDisabled": false
+ },
+ {
+   "Name": "CMDR. Hoksilato ED Concert Space",
+   "SpotifyLink": "spotify:user:hoksilato:playlist:7x7DH0pcjYuq1oquEL2FEq",
+   "IsDisabled": false
+ },
+ {
+   "Name": "CMDR. Hoksilato ED Concert Cantina",
+   "SpotifyLink": "spotify:user:hoksilato:playlist:5NtEC3cKu3fPfgUAjk2keg",
+   "IsDisabled": false
+ },
+ {
+   "Name": "CMDR. Hoksilato ED Concert Combat",
+   "SpotifyLink": "spotify:user:hoksilato:playlist:60pCKymUl9aKBjrhjDWNbe",
+   "IsDisabled": false
+ },
+ {
+   "Name": "CMDR. Hoksilato ED Concert Suspense",
+   "SpotifyLink": "spotify:user:hoksilato:playlist:0wjOczxNNN8WBTcY6kolvH",
+   "IsDisabled": false
+ },
+ {
+   "Name": "CMDR. Hoksilato ED Rock Space",
+   "SpotifyLink": "spotify:user:hoksilato:playlist:0OhBtMwCmKcDbaz9uPJBp2",
+   "IsDisabled": false
+ },
+ {
+   "Name": "CMDR. Hoksilato ED Rock Cantina",
+   "SpotifyLink": "spotify:user:hoksilato:playlist:0poTBHpERzh5FeH5U87bad",
+   "IsDisabled": false
+ },
+ {
+   "Name": "CMDR. Hoksilato ED Rock Combat",
+   "SpotifyLink": "spotify:user:hoksilato:playlist:1of73sxHZW7btNySkCwgzU",
+   "IsDisabled": false
+ },
+ {
+   "Name": "CMDR. Hoksilato ED Rock Suspense",
+   "SpotifyLink": "spotify:user:hoksilato:playlist:0v7KxJw3VJsNfHwb8I5OTA",
+   "IsDisabled": false
+ },
+ {
+   "Name": "CMDR. Hoksilato ED Electro Space",
+   "SpotifyLink": "spotify:user:hoksilato:playlist:03ptszzBGYvcJ9cSwk3xES",
+   "IsDisabled": false
+ },
+ {
+   "Name": "CMDR. Hoksilato ED Electro Cantina",
+   "SpotifyLink": "spotify:user:hoksilato:playlist:1iAksPieYgRdVJCmBfM4Z0",
+   "IsDisabled": false
+ },
+ {
+   "Name": "CMDR. Hoksilato ED Electro Combat",
+   "SpotifyLink": "spotify:user:hoksilato:playlist:4UTWz2kUQ8WfujaW5Th43y",
+   "IsDisabled": false
+ },
+ {
+   "Name": "CMDR. Hoksilato ED Electro Suspense",
+   "SpotifyLink": "spotify:user:hoksilato:playlist:6EQ9LUCCp86rFtbRNLseGG",
+   "IsDisabled": false
+ },
     {
       "Name": "Spacetruckers Music",
       "SpotifyLink": "spotify:user:1127748710:playlist:5kDPYBrGSabnu0XapRy0ge",
