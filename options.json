@@ -15,7 +15,11 @@
   "RadioStations": [
     {
       "Name": "KAMOCAN FM",
-      "Url": "http://shaincast.caster.fm:31120/listen.mp3?authn5160d616c9f87e1237a4bd42bae94d26"
+      "Url": "http://shaincast.caster.fm:31120/listen.mp3?authn0c6f76af8d2162421223043a9d170c55"
+    },
+    {
+      "Name": "Pleyades Radio",
+      "Url": "https://usa5.fastcast4u.com:2199/tunein/obocfvbe.pls"
     },
     {
       "Name": "Radio Sidewinder",
@@ -349,6 +353,10 @@
     {
       "Name": "EliteCast T3",
       "Url": "http://www.ivoox.com/elitecast-t3_fg_f1308730_filtro_1.xml"
+    },
+    {
+      "Name": "Memorias de un Tambor -Historia de España-",
+      "Url": "http://feedpress.me/memoriasdeuntambor?format=xml"
     },
     {
       "Name": "Lave Radio",
